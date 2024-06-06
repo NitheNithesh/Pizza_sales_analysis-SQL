@@ -7,4 +7,4 @@ This analysis examines patterns and trends in pizza sales data over a one-year p
 
 In this analysis project, I moslty utilized Common Table Expressions (CTEs) with window functions instead of subqueries. CTEs with window functions offer advantages in terms of readability, code reusability, and high efficiency performance.
 
-# These analysis questions and dataset has been taken from https://github.com/Ayushi0214/pizza-sales---SQL
+These analysis questions and dataset has been taken from https://github.com/Ayushi0214/pizza-sales---SQL
